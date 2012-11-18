@@ -8,7 +8,5 @@
     <description>
        A Test of the McD App    </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
-    </author>
+    <icon src = icon.png />
 </widget>
