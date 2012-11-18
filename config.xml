@@ -8,5 +8,5 @@
     <description>
        A Test of the McD App    </description>
 
-    <icon src = icon.png />
+    <icon src = "icon.png" />
 </widget>
